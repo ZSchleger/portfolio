@@ -1,10 +1,12 @@
 
 body {
 
-  font-family: verdana;
+  font-family: verdana,arial,geneva;
+  border:10px; 
+  border-style:solid; 
+  border-color:black;
 }
  nav ul.menuB li {
-  display:inline;
   display:inline;
   font-size: 1.5vw; 
   padding-left:1vw;
@@ -30,21 +32,28 @@ a:hover {
 h1 {
   color: black;
   text-align: center;
-  font-size: 35px;
+  font-size: 55px;
   padding: 3vw;
+  background-color: lightblue;
 }
 
 h2 {
   color: black;
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   padding: 3vw;
 }
-
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  
+}
 p {
   
-  font-size: 20px;
-  padding: 3vw;
+  font-size: 25px;
+  padding-left:1vw;
+  padding-right:1vw;
 }
 
 
