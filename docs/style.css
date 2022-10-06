@@ -1,23 +1,50 @@
 
 body {
-  background-color: lightblue;
+
+  font-family: verdana;
+}
+ nav ul.menuB li {
+  display:inline;
+  display:inline;
+  font-size: 1.5vw; 
+  padding-left:1vw;
+  padding-right:1vw;
+  padding-top:5vw;
+  padding-bottom:10vw;
+}
+
+ nav ul.menuB{
+     background-color: lightgrey;
+     padding-left:1vw;
+     padding-right:1vw;
+     padding-top:2.5vw;
+     padding-bottom:2.5vw;
+ }
+ 
+ 
+
+a:hover {
+  color: black;
 }
 
 h1 {
   color: black;
   text-align: center;
-  font-size: 30px;
+  font-size: 35px;
+  padding: 3vw;
 }
 
 h2 {
   color: black;
   text-align: center;
   font-size: 30px;
+  padding: 3vw;
 }
 
 p {
-  font-family: verdana;
+  
   font-size: 20px;
+  padding: 3vw;
 }
 
 
