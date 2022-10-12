@@ -27,7 +27,7 @@ body {
  
 
 a:hover {
-  color: black;
+  color: white;
 }
 
 h1 {
@@ -57,8 +57,8 @@ h3 {
 p {
   color: white;
   font-size: 25px;
-  padding-left:1vw;
-  padding-right:1vw;
+  padding-left:2vw;
+  padding-right:2vw;
 }
 img{
     max-width: 800px;
