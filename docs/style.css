@@ -79,3 +79,7 @@ img{
   display: table;
   
 }
+
+figcaption {
+    color: white;
+}
